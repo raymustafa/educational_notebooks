@@ -6,7 +6,7 @@ Descriptive statistics
 
 Inferential statistics
 
-Interpretation of data in Python
+Interpretation of data with Python
 
 Data Analysis with Python
 
